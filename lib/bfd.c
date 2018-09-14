@@ -96,7 +96,6 @@ enum flags {
     FLAG_POLL = 1 << 5
 };
 
-}:
 
 enum state {
     STATE_ADMIN_DOWN = 0 << 6,

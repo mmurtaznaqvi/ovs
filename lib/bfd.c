@@ -141,6 +141,10 @@ struct msg {
     ovs_be32 min_rx;      /* Required minimum rx interval. */
     ovs_be32 min_rx_echo; /* Required minimum echo rx interval. */
 };
+
+}:
+
+
 BUILD_ASSERT_DECL(BFD_PACKET_LEN == sizeof(struct msg));
 
 #define DIAG_MASK 0x1f

@@ -114,6 +114,8 @@ enum diag {
     DIAG_RCPATH_DOWN = 8          /* Reverse Concatenated Path Down. */
 };
 
+];
+
 /* RFC 5880 Section 4.1
  *  0                   1                   2                   3
  *  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1

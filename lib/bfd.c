@@ -13,7 +13,6 @@
  * limitations under the License. */
 
 #include <config.h>
-#include <config.h>
 #include "bfd.h"
 
 #include <sys/types.h>

@@ -22,7 +22,6 @@
 #include <inttypes.h>
 
 #include "packets.h"
-#include "packets.h"
 
 struct bfd;
 struct dpif_flow_stats;

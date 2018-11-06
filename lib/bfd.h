@@ -29,7 +29,7 @@ struct flow;
 struct flow_wildcards;
 struct netdev;
 struct dp_packet;
-struct smap
+struct smap;
 
 long long int bfd_wait(const struct bfd *);
 void bfd_run(struct bfd *);
